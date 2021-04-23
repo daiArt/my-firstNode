@@ -1,0 +1,311 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q!
+|2,0,1618799126,,"q!"
+:q1
+|2,0,1618799120,,"q1"
+:!q
+|2,0,1618799112,,"!q"
+:q
+|2,0,1618798910,,"q"
+:w
+|2,0,1618798896,,"w"
+:wq
+|2,0,1611717810,,"wq"
+:q~
+|2,0,1610603791,,"q~"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	た
+|3,1,36,0,1,0,1618799035,"た"
+
+# ファイルマーク:
+'0  137  0  /tmp/tutorKUhWbX
+|4,48,137,0,1618799126,"/tmp/tutorKUhWbX"
+'1  1  0  ~/workspace/vim-study/test.txt
+|4,49,1,0,1618798910,"~/workspace/vim-study/test.txt"
+'2  1  0  ~/.profile
+|4,50,1,0,1618798664,"~/.profile"
+'3  1  0  /tmp/crontab.jN9M2w/crontab
+|4,51,1,0,1611717822,"/tmp/crontab.jN9M2w/crontab"
+'4  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,52,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+'5  2  0  /tmp/crontab.cEcrJW/crontab
+|4,53,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+'6  93  51  /tmp/tutor7XUIZm
+|4,54,93,51,1610606799,"/tmp/tutor7XUIZm"
+'7  1  0  ~/workspace/vim-study/.profile
+|4,55,1,0,1610606644,"~/workspace/vim-study/.profile"
+'8  1  0  ~/workspace/vim-study/test.txt
+|4,56,1,0,1610603795,"~/workspace/vim-study/test.txt"
+'9  1  0  ~/.profile
+|4,57,1,0,1610603672,"~/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  137  0  /tmp/tutorKUhWbX
+|4,39,137,0,1618799126,"/tmp/tutorKUhWbX"
+-'  1  0  /tmp/tutorKUhWbX
+|4,39,1,0,1618798986,"/tmp/tutorKUhWbX"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1618798910,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/.profile
+|4,39,1,0,1618798664,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1618798664,"~/.profile"
+-'  1  0  /tmp/crontab.jN9M2w/crontab
+|4,39,1,0,1611717822,"/tmp/crontab.jN9M2w/crontab"
+-'  1  0  /tmp/crontab.jN9M2w/crontab
+|4,39,1,0,1611717822,"/tmp/crontab.jN9M2w/crontab"
+-'  1  0  /tmp/crontab.jN9M2w/crontab
+|4,39,1,0,1611717822,"/tmp/crontab.jN9M2w/crontab"
+-'  1  0  /tmp/crontab.jN9M2w/crontab
+|4,39,1,0,1611717822,"/tmp/crontab.jN9M2w/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  23  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,23,0,1611717810,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  1  0  /tmp/crontab.ZYmIKK/crontab
+|4,39,1,0,1611717704,"/tmp/crontab.ZYmIKK/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  2  0  /tmp/crontab.cEcrJW/crontab
+|4,39,2,0,1611717699,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  1  0  /tmp/crontab.cEcrJW/crontab
+|4,39,1,0,1611717651,"/tmp/crontab.cEcrJW/crontab"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  93  51  /tmp/tutor7XUIZm
+|4,39,93,51,1610606799,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+-'  1  0  /tmp/tutor7XUIZm
+|4,39,1,0,1610606755,"/tmp/tutor7XUIZm"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /tmp/tutorKUhWbX
+	*	1618799120	0
+	"	137	0
+	^	108	25
+	.	108	22
+	+	83	59
+	+	108	22
+
+> ~/workspace/vim-study/test.txt
+	*	1618798896	0
+	"	1	0
+
+> ~/.profile
+	*	1618798663	0
+	"	1	0
+
+> /tmp/crontab.jN9M2w/crontab
+	*	1611717817	0
+	"	1	0
+
+> /tmp/crontab.ZYmIKK/crontab
+	*	1611717806	0
+	"	23	0
+	^	23	2
+	.	23	1
+	+	23	1
+
+> /tmp/crontab.cEcrJW/crontab
+	*	1611717693	0
+	"	2	0
+	^	1	24
+	.	1	24
+	+	1	24
+
+> /tmp/tutor7XUIZm
+	*	1610606796	0
+	"	93	51
+	^	26	0
+	.	26	0
+	+	26	0
+
+> ~/workspace/vim-study/.profile
+	*	1610606641	0
+	"	1	0
